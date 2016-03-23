@@ -8,8 +8,8 @@ import socket
 import random
 import json
 
-option_a = os.getenv('OPTION_A', "One")
-option_b = os.getenv('OPTION_B', "Two")
+option_a = os.getenv('OPTION_A', "Go")
+option_b = os.getenv('OPTION_B', "Phython")
 
 hostname = socket.gethostname()
 

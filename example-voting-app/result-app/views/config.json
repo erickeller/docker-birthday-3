@@ -1,7 +1,7 @@
 {
-  "name":"Gordon",
-  "twitter":"@docker",
-  "location":"San Francisco, CA, USA",
-  "repo":["example/votingapp_voting-app","example/votingapp_result-app"],
-  "vote":"Cat"
+  "name":"Eric",
+  "twitter":"@mariole82",
+  "location":"Zurich, ZH, CH",
+  "repo":["erickeller/votingapp_voting-app","erickeller/votingapp_result-app"],
+  "vote":"Go"
 }
